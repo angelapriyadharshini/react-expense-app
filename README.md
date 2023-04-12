@@ -1,1 +1,1 @@
-# react-restaurant-app
+# react-expense-app
